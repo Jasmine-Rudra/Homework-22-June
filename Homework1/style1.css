@@ -1,0 +1,61 @@
+body {
+  background-color: #777;
+}
+.body-style {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+header,
+nav,
+section,
+footer,
+aside,
+h1,
+p {
+  margin: 0;
+  margin-bottom: 4px;
+  background-color: #ebebeb;
+  color: #777;
+  
+}
+article {
+  background-color: #777;
+  color: #ebebeb;
+  padding: 20px;
+  margin-top: 40px;
+}
+h1 {
+  margin-top: 30px;
+  padding: 15px;
+}
+
+p{
+  padding:15px;
+}
+
+header,
+nav,
+footer {
+  padding: 30px;
+}
+.section-style{
+  width:100%;
+}
+section {
+  padding: 30px 10px 10px 10px;
+  width: 540px;
+  float: left;
+  height: 295px;
+}
+
+aside {
+  padding: 30px;
+  float: right;
+  width: 375px;
+  height: 275px;
+}
+.clearfix {
+  clear: both;
+}
